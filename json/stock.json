@@ -1,0 +1,11 @@
+{
+    "productos": [{
+            "nombre": "Heladera" ,
+            "disponible":"hay stock"
+    },
+    {
+        "nombre": "telefono",
+        "disponible":"hay stock"
+    }
+ ]
+}
